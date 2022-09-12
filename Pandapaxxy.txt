@@ -1,5 +1,5 @@
 title:Pandapaxxy's MnK rolls
-description:Pandapaxxy's recommendations for all weapons through seasons 4-16. Recommended for Mouse and Keyboard.
+description:Pandapaxxy's recommendations for all weapons through seasons 4-17. Recommended for Mouse and Keyboard.
 
 // Annual Skate (god-pve,controller,mnk)
 //notes: tags:god-pve,controller,mnk
