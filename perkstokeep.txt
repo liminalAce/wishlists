@@ -1,0 +1,18 @@
+// Hatchling
+dimwishlist:item=-69420&perks=831391274
+// Incandescent
+dimwishlist:item=-69420&perks=4293542123
+// Volt Shot
+dimwishlist:item=-69420&perks=2173046394
+// Repulsor Brace
+dimwishlist:item=-69420&perks=776531651
+// HeadStone
+dimwishlist:item=-69420&perks=124408337
+// Subsistence
+dimwishlist:item=-69420&perks=1820235745
+// chain reaction
+dimwishlist:item=-69420&perks=2396489472
+// Osmosis
+dimwishlist:item=-69420&perks=1774574192
+// Destablizing Rounds
+dimwishlist:item=-69420&perks=2048641572
