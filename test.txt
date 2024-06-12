@@ -1,2 +1,2 @@
 // testing exotic armor marking
-dimwishlist:item=2773056939
+dimwishlist:item=4047213660
