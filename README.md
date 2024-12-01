@@ -8,3 +8,5 @@
 - Select the perks you want
 - Click the "Copy Selected Perks as Wish List Roll" button
 - Paste that like into the wishlist here on github
+
+you can review the [DIM wishlist documentation here](https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists)
