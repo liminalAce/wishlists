@@ -1,6 +1,6 @@
 # wishlists
 
-** how to use **
+**how to use**
 
 - Open [DIM](https://app.DIM.gg)
 - Click an item you want to wish list from your inventory
